@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-09T08:14:11Z" name="Suite" finished-at="2024-04-09T08:14:47Z" duration-ms="35951">
+    <groups>
+    </groups>
+    <test started-at="2024-04-09T08:14:11Z" name="Test" finished-at="2024-04-09T08:14:47Z" duration-ms="35951">
+      <class name="tests.testTaskAddedToRightCategory">
+        <test-method signature="test_TaskAddedToRightCategory()[pri:0, instance:tests.testTaskAddedToRightCategory@1984b1f]" started-at="2024-04-09T10:14:40Z" name="test_TaskAddedToRightCategory" finished-at="2024-04-09T10:14:43Z" duration-ms="3355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_TaskAddedToRightCategory -->
+      </class> <!-- tests.testTaskAddedToRightCategory -->
+      <class name="tests.TestDeleteTask">
+        <test-method signature="test_DeleteTask()[pri:0, instance:tests.TestDeleteTask@3bd323e9]" started-at="2024-04-09T10:14:43Z" name="test_DeleteTask" finished-at="2024-04-09T10:14:47Z" duration-ms="3359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DeleteTask -->
+      </class> <!-- tests.TestDeleteTask -->
+      <class name="tests.testAddNewTask">
+        <test-method is-config="true" signature="setUpEnvironment()[pri:0, instance:tests.testAddNewTask@17d88132]" started-at="2024-04-09T10:13:51Z" name="setUpEnvironment" finished-at="2024-04-09T10:14:11Z" duration-ms="19238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpEnvironment -->
+        <test-method signature="test_AddNewTask()[pri:0, instance:tests.testAddNewTask@17d88132]" started-at="2024-04-09T10:14:11Z" name="test_AddNewTask" finished-at="2024-04-09T10:14:39Z" duration-ms="28088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AddNewTask -->
+        <test-method is-config="true" signature="navigateToHomePage()[pri:0, instance:tests.testAddNewTask@17d88132]" started-at="2024-04-09T10:14:39Z" name="navigateToHomePage" finished-at="2024-04-09T10:14:40Z" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+      </class> <!-- tests.testAddNewTask -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
